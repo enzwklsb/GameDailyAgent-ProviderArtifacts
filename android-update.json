@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "versionName": "3.12.0-beta1",
+  "versionCode": 51,
+  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-v3.12.0-beta1-final-gate/GameDailyAgent-public-update-vc51.apk",
+  "sha256": "22b200cbc5f0a43df39b9a4974df419cef74e9f1eb34fdb2014621510ba90080",
+  "apkSizeBytes": 15023447,
+  "supportedMobileApiMin": 10,
+  "supportedMobileApiMax": 10,
+  "releaseNotes": "v3.12 正式更新链路与 Provider 更新支持。"
+}
