@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
-  "enabled": true,
-  "versionName": "3.12.0-beta1-pr8-debug",
-  "versionCode": 51,
-  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v51/GameDailyAgent-debug-v51.apk",
-  "sha256": "bea7defca550ec89164a13c4bd0c8fde2e6e83d5ba16d3b1c46be65ba58f82c9",
-  "apkSizeBytes": 17837673,
-  "supportedMobileApiMin": 10,
-  "supportedMobileApiMax": 10,
-  "releaseNotes": "修正 Legacy 开发机诊断目标：连接 Debug Brain 24100 并使用 Development Key，确保 SAFE_DRY_RUN 与 Mock 游戏环境生效。"
+    "schemaVersion":  1,
+    "enabled":  true,
+    "versionName":  "3.12.0-beta1-pr8-debug",
+    "versionCode":  52,
+    "apkUrl":  "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v52/GameDailyAgent-debug-v52.apk",
+    "sha256":  "210c0f08a84ea16f34474f352dc132515429ebe5a9e86b55e9cc1e9456c5d606",
+    "apkSizeBytes":  18294307,
+    "supportedMobileApiMin":  10,
+    "supportedMobileApiMax":  10,
+    "releaseNotes":  "Android Debug automated publish; source b6746cd9d0 (includes uncommitted working-tree changes); Build ID debug-auto-20260815-001321-gb6746cd9d0-dirty."
 }
