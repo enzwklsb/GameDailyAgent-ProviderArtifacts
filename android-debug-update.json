@@ -1,12 +1,12 @@
 {
-    "schemaVersion":  1,
-    "enabled":  true,
-    "versionName":  "3.12.0-beta1-pr8-debug",
-    "versionCode":  52,
-    "apkUrl":  "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v52/GameDailyAgent-debug-v52.apk",
-    "sha256":  "210c0f08a84ea16f34474f352dc132515429ebe5a9e86b55e9cc1e9456c5d606",
-    "apkSizeBytes":  18294307,
-    "supportedMobileApiMin":  10,
-    "supportedMobileApiMax":  10,
-    "releaseNotes":  "Android Debug automated publish; source b6746cd9d0 (includes uncommitted working-tree changes); Build ID debug-auto-20260815-001321-gb6746cd9d0-dirty."
+  "schemaVersion": 1,
+  "enabled": true,
+  "versionName": "3.12.0-beta1-pr8-debug",
+  "versionCode": 53,
+  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v53/GameDailyAgent-debug-v53.apk",
+  "sha256": "e149cdff4d30577679b52e9f0dfe886ec1d322fd6e2a906cd9fa38b47813e388",
+  "apkSizeBytes": 17804908,
+  "supportedMobileApiMin": 10,
+  "supportedMobileApiMax": 10,
+  "releaseNotes": "Provider update review fixes and latest development test build."
 }
