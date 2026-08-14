@@ -3,7 +3,7 @@
   "enabled": true,
   "versionName": "3.12.0-beta1-pr8-debug",
   "versionCode": 50,
-  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v50/GameDailyAgent-debug-v50.apk",
+  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v50/GameDailyAgent-debug.apk",
   "sha256": "7f740bf7b718229503f583390fbadf7d04f94e0ff82dc938e04103cfa70998eb",
   "apkSizeBytes": 17837666,
   "supportedMobileApiMin": 10,
