@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "enabled": true,
   "versionName": "3.12.0-beta1-pr8-debug",
-  "versionCode": 50,
-  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v50/GameDailyAgent-debug.apk",
-  "sha256": "7f740bf7b718229503f583390fbadf7d04f94e0ff82dc938e04103cfa70998eb",
-  "apkSizeBytes": 17837666,
+  "versionCode": 51,
+  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v51/GameDailyAgent-debug-v51.apk",
+  "sha256": "bea7defca550ec89164a13c4bd0c8fde2e6e83d5ba16d3b1c46be65ba58f82c9",
+  "apkSizeBytes": 17837673,
   "supportedMobileApiMin": 10,
   "supportedMobileApiMax": 10,
-  "releaseNotes": "PR8 Debug/Release 同链路测试版；支持实时 Event + Snapshot、开发机 Mock 游戏和 Debug 通道应用内更新。"
+  "releaseNotes": "修正 Legacy 开发机诊断目标：连接 Debug Brain 24100 并使用 Development Key，确保 SAFE_DRY_RUN 与 Mock 游戏环境生效。"
 }
