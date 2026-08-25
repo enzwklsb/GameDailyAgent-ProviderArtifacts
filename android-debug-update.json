@@ -6,6 +6,18 @@
   "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v115/GameDailyAgent-debug-v115.apk",
   "sha256": "9b566667e0daf5ed88848622b119780e3024cab3734b7283908a6eaf55cbfc6a",
   "apkSizeBytes": 18230912,
+  "dexMetadata": {
+    "api28To30": {
+      "url": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v115/GameDailyAgent-debug-api28-30.dm",
+      "sha256": "f9d6a6927b116e7173a600db851a28d2b8323591dd5874410d3002c535a93a70",
+      "sizeBytes": 23585
+    },
+    "api31Plus": {
+      "url": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v115/GameDailyAgent-debug-api31plus.dm",
+      "sha256": "08ea9b65075b689d04029e0825c5e1311c08f4e20c66b88f88e4c87b87d32a99",
+      "sizeBytes": 23406
+    }
+  },
   "supportedMobileApiMin": 10,
   "supportedMobileApiMax": 10,
   "releaseNotes": "Android Debug automated publish; source 667e3184f9 (includes uncommitted working-tree changes); Build ID debug-auto-20260826-010533-g667e3184f9-dirty."
