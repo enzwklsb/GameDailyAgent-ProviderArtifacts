@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "enabled": true,
   "versionName": "3.12.0-beta1-pr8-debug",
-  "versionCode": 104,
-  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v104/GameDailyAgent-debug-v104.apk",
-  "sha256": "d7c21f7344812a9f26a5af6df37ba225878ebc574524b7214f1c3a637a11de68",
-  "apkSizeBytes": 18230884,
+  "versionCode": 105,
+  "apkUrl": "https://github.com/enzwklsb/GameDailyAgent-ProviderArtifacts/releases/download/android-debug-v105/GameDailyAgent-debug-v105.apk",
+  "sha256": "fc33a0d338d6d6a86a4930e269ff54e83b23ecba6dc7cf509b37678916d6fe14",
+  "apkSizeBytes": 18230875,
   "supportedMobileApiMin": 10,
   "supportedMobileApiMax": 10,
-  "releaseNotes": "Android Debug automated publish; source 667e3184f9 (includes uncommitted working-tree changes); Build ID debug-auto-20260825-132231-g667e3184f9-dirty."
+  "releaseNotes": "Android Debug automated publish; source 667e3184f9 (includes uncommitted working-tree changes); Build ID debug-auto-20260825-145620-g667e3184f9-dirty."
 }
